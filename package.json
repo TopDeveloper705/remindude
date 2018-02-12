@@ -1,0 +1,17 @@
+{
+  "name": "remindude",
+  "version": "1.0.0",
+  "description": "Reminder Telegram Bot ",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

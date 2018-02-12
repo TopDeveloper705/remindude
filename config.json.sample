@@ -1,0 +1,11 @@
+{
+	"token": "YOUR TELERAGM API TOKEN",
+	"ownerId": null,
+	"replies": {
+		"ok": "👌",
+		"error": "WTF?",
+		"disclaimer": "Attention!\nUse me only for testing!\nDo not share with me any confidential data because I may be very leaky!",
+		"notAllowed": "Sorry, you are not allowed to use me",
+		"started": "🔥 started"
+	}
+}
